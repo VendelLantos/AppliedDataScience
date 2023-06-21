@@ -59,6 +59,7 @@ datasummary(treat * (growth + rgdp60) ~ mean + median + sd + min + max, data=Gro
 
 **Designated place**: type one or two sentences describing this table of a fellow student below. For example, comment on the mean and median growth of both groups. Then stage, commit and push it to their github repository. 
 
+There are 6 columns and 2 rows with 2 sub-rows each in the table. The mean growth is 2.46 and the median growth is 2.29 for the row "no revolution", and 1.68 mean and 1.92 median for revolution.
 
 ### Part 3: Make a table summarizing reressions using modelsummary and kable
 
